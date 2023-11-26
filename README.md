@@ -1,1 +1,3 @@
-The model, properties, and findings will be made available upon the public disclosure of the paper at the CCS'23 conference.
+# 5GCVerif
+Formal Analysis of Access Control Mechanism of 5G Core Network\
+(CCS'23)
